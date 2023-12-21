@@ -1,0 +1,16 @@
+{
+  "name": "fabrn/ydk-file-reader",
+  "version": "1.0.0",
+  "description": "Simple PHP library for YDK file reading",
+  "license": "MIT",
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "YdkFileReader\\": "lib/"
+    }
+  }
+}
